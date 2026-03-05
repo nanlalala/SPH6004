@@ -6,7 +6,6 @@ Predicting ICU discharge (survival) using MIMIC-IV v3.1 data.
 
 | File | Description |
 |------|-------------|
-| `SPH6004_Assignment_Report.pdf` | Written report |
 | `feature_selection.py` | Feature selection pipeline |
 | `predictive_models.py` | Model training and evaluation |
 | `generate_plots.py` | Plot generation |
